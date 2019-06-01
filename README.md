@@ -34,3 +34,10 @@ Install `LaTeX Workshop` and write settings.
 "latex-workshop.view.pdf.viewer": "tab",
 "latex-workshop.chktex.enabled": false,
 ```
+
+## `.sly` files template
+If you want to automatically load as a template.
+
+```bash
+$ mkdir -p -v /Users/$USER/Library/texmf/tex/latex
+```
